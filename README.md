@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**vitordelfino/vitordelfino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://i.imgur.com/TaTyAuY.png)
 
-Here are some ideas to get you started:
+**Hi I'm Vitor Delfino a Full Stack developer from São Paulo, BR 🇧🇷**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **I’m currently working on Whitelabel application, develop backend using Node.Js and frontend using React**
+
+📖 **I’m currently learning React and Github Actions**
+
+## Find me at:
+
+- [LinkedIn](https://www.linkedin.com/in/vitor-delfino)
+- [Website](https://vitordelfino.dev)
