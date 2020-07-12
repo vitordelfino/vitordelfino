@@ -12,3 +12,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/vitor-delfino)
 - [Website](https://vitordelfino.dev)
+- [NPM](https://www.npmjs.com/~vitordelfino)
