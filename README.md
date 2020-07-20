@@ -1,12 +1,12 @@
 # Welcome
 
+![](https://i.imgur.com/TaTyAuY.png) 
+
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=vitordelfino" />
   </a>
 </p>
-
-![](https://i.imgur.com/TaTyAuY.png) 
 
 **Hi I'm Vitor Delfino a Full Stack developer from São Paulo, BR 🇧🇷**
 
