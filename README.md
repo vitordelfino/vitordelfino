@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/vitordelfino">
-    <img src="https://api.daily.dev/devcards/b3820f9cd69b44239313045944b5d13f.png?r=fal" width="400" alt="Vitor Silva Delfino's Dev Card"/>
+    <img src="https://github.com/vitordelfino/vitordelfino/blob/master/devcard.svg" width="400" alt="Vitor Silva Delfino's Dev Card"/>
   </a>
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=vitordelfino" />
