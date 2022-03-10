@@ -1,6 +1,6 @@
 # Welcome
 
-![Snake animation](https://github.com/rafaballerini/vitordelfino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitordelfino/vitordelfino/blob/output/github-contribution-grid-snake.svg)
 
 [comment]: ![](https://i.imgur.com/TaTyAuY.png)
 
