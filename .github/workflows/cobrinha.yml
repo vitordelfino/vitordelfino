@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Generate Snake Gif
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "* */2 * * *"
   workflow_dispatch:
 
 jobs:
