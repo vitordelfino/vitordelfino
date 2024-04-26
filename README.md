@@ -31,8 +31,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vitordelfino&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 ![](https://komarev.com/ghpvc/?username=vitordelfino&label=Visitors+Count&color=brightgreen)
